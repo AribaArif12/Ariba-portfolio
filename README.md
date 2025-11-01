@@ -1,67 +1,77 @@
-# 🌐 Ariba Arif — Web Developer & Software Engineer
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x200.png?text=Ariba+Arif+-+Web+Developer+%26+Software+Engineer" alt="Ariba Arif Banner" />
+</p>
 
-Welcome to my personal portfolio repository.  
-I build intelligent, user-friendly, and responsive web applications with a focus on clean UI/UX, performance, and real-world business value.
+<h1 align="center">🌐 Ariba Arif — Web Developer & Software Engineer</h1>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariba-arif-266077327"><img src="https://img.shields.io/badge/LinkedIn-Ariba%20Arif-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/aribaarif/ariba-portfolio"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github" /></a>
+  <a href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square" /></a>
+</p>
 
-## 🧠 About Me
-I’m **Ariba Arif**, a Software Engineer and Web Developer based in Pakistan.  
-I work on full-stack web projects and data-driven applications, and I'm open to collaborations with agencies and clients in the UAE, Qatar, Saudi Arabia, and beyond.
 
----
 
-## 💼 Featured Projects
+### 👋 About Me
+Hi, I'm **Ariba Arif**, a passionate **Software Engineer & Web Developer** from Pakistan 🇵🇰.  
+I specialize in creating **intelligent, data-driven, and visually engaging** web applications.
 
-### 1. AI-Enhanced CV Analysis System
-**Keywords:** CV Analysis, Skill Evaluation, HR Analytics, Machine Learning  
-**Tech Stack:** Python, Machine Learning algorithms, ATS integration, Power BI, UI/UX design  
-**Summary:** An AI-driven resume analysis platform that extracts skills, ranks candidates against job requirements, and visualizes HR analytics to speed up screening and improve hire quality.
+💼 Currently exploring collaborations with **UAE, Qatar, and Saudi Arabia** digital agencies and startups.  
+💡 I focus on blending **AI, data analytics, and clean UI/UX** for business impact.
 
-### 2. Medical Website — Pakistan Spinal Care
-**Tech Stack:** Node.js, HTML, CSS, UI/UX Design  
-**Summary:** A responsive medical website for spinal care services with appointment functionality and a patient-friendly interface optimized for mobile and desktop.
 
-### 3. Voting Management System
-**Tech Stack:** SQL, WordPress (documentation & front-end)  
-**Summary:** A secure voting platform for organizational elections with voter management, result tracking, and admin dashboards.
 
-### 4. Online Shopping Website
-**Tech Stack:** HTML, CSS, JavaScript  
-**Summary:** A modern e-commerce front-end with product pages, shopping cart behavior, and a responsive design for smooth user experience.
+💼 Featured Projects
 
----
+ 🧠 AI-Enhanced CV Analysis System
+ **Keywords:** CV Analysis, Skill Evaluation, HR Analytics, Machine Learning  
+ **Tech Stack:** Python, ML Algorithms, ATS, Power BI, UI/UX Design  
+**Summary:** AI-driven system that analyzes CVs, extracts candidate skills, and provides analytics dashboards for HR teams.
 
-## 🛠️ Tech Stack & Skills
-- **Languages:** Python, JavaScript, SQL, HTML, CSS, Node.js  
-- **Libraries/Tools:** WordPress, Power BI, Machine Learning libraries  
-- **Design:** UI/UX design, Responsive web design, Figma / Adobe XD  
-- **Databases:** MySQL, SQLite  
-- **Soft Skills:** Communication, teamwork, problem solving
+ 🏥 Medical Website — Pakistan Spinal Care
+ **Tech Stack:** Node.js, HTML, CSS, UI/UX Design  
+ **Summary:** A responsive and accessible medical website designed for patient engagement and appointment booking.
 
----
+#### 🗳️ Voting Management System
+**Tech Stack:** SQL, WordPress  
+ **Summary:** A secure platform for organizational voting and decision management.
 
-## 📂 Repository Contents
-- `index.html` — one-page portfolio site (portfolio web file)
-- `.github/FUNDING.yml` — sponsorship/contact configuration
-- `README.md` — this file
-- `.gitignore` — standard Node/web ignore rules
-- `LICENSE` — CC BY-NC 4.0 (or chosen license)
+ 🛍️ Online Shopping Website
+ **Tech Stack:** HTML, CSS, JavaScript  
+  **Summary:** A front-end e-commerce prototype featuring clean UI, category filtering, and responsive design.
 
----
 
-## 📬 Contact
-- **Email:** aribamuharif@gmail.com  
-- **Phone / WhatsApp:** +92 340 920 9967  
-- **LinkedIn:** https://www.linkedin.com/in/ariba-arif-266077327
 
----
+ ⚙️ Tech Stack
+| Category | Skills |
 
-## 📄 License
-This portfolio is licensed under the [Creative Commons Attribution-NonCommercial 4.0 License](http://creativecommons.org/licenses/by-nc/4.0/).  
-© 2025 Ariba Arif — All rights reserved.
+| **Frontend** | HTML, CSS, JavaScript, Responsive Design |
+| **Backend** | Node.js, SQL |
+| **AI / Data** | Python, Machine Learning, Power BI |
+| **Design** | UI/UX, Figma, Adobe XD |
+| **Tools** | Git, GitHub, VS Code, React |
 
----
 
-## 💖 Support / Sponsorship
-If you find this work useful and would like to support future projects, please reach out via LinkedIn or email. Sponsorship links may be added here in the future.
+
+📬 Contact Me
+📧 **Email:** [aribamuharif@gmail.com](mailto:aribamuharif@gmail.com)  
+📞 **Phone / WhatsApp:** +92 340 9209967  
+🔗 **LinkedIn:** [linkedin.com/in/ariba-arif-266077327](https://www.linkedin.com/in/ariba-arif-266077327)
+
+
+
+### 📄 License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 License](http://creativecommons.org/licenses/by-nc/4.0/).  
+© 2025 **Ariba Arif** — All rights reserved.
+
+
+
+### 💖 Support
+If you appreciate my work or would like to collaborate on a web or AI project, feel free to connect via **LinkedIn** or **Email**.  
+Sponsorship and collaboration options will be available soon.
+
+
+
+
+
