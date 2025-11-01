@@ -67,9 +67,10 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 
 
-### 💖 Support
+### 💖 Support/Sponsorship
 If you appreciate my work or would like to collaborate on a web or AI project, feel free to connect via **LinkedIn** or **Email**.  
 Sponsorship and collaboration options will be available soon.
+If you’d like to collaborate or sponsor my work, please connect via [LinkedIn](https://www.linkedin.com/in/ariba-arif-266077327).
 
 
 
